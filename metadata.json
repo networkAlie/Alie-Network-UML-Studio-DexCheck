@@ -1,0 +1,5 @@
+{
+  "name": "DexCheck UML Studio",
+  "description": "A visual UML diagram explorer for the DexCheck project, showcasing its system architecture, token utility, and core features. Built with React and Mermaid.js for interactive analysis.",
+  "requestFramePermissions": []
+}
